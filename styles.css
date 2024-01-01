@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Helvetica', sans-serif;
+    background-color: #f4f4f4; /* Very light grey background color */
+}
+
+header {
+    text-align: center;
+    margin-top: 20%;
+    color: #333; /* Header color */
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold; /* Bold for the header */
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: normal; /* Regular for the subhead */
+    color: #9C9A99; /* Subhead color */
+}
